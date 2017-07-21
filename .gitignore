@@ -1,3 +1,5 @@
 # Directorios y archivos excluidos del repositorio
 /app/*
 !/app/.gitkeep
+!/app/app.js
+!/app/package.json
